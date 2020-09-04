@@ -21,7 +21,7 @@ Press Ctrl+Shift+O to change settings.
 * Resolution Width: Your monitor's resolution width
 * Resolution Height: Your monitor's resolution height
 * Border: Whether or not to draw a border on the bottom left, bottom, and bottom right areas.
-* Left, Right, Forward, Back & Wave Keys: Comma Separated Numbers that refer to the keycodes of keys ( [keycodes](https://keycode.info/) )
+* Left, Right, Forward, Back & Wave Keys: Comma Separated Numbers that refer to the keycodes of keys ([keycodes](https://keycode.info/))
   * Left/Right/Forward/Back/Wave refers to which image will be drawn when pressing a key in that list
 
 Resolution Width/Height can be changed to be bigger/smaller to support multiple monitors.
