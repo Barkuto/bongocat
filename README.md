@@ -3,7 +3,7 @@
 ## About
 A program that renders a scene that can be used as a fake cam.
 
-The scene renders your relative mouse position, and displays a different hand when certain keys are pressed.
+The scene renders your relative mouse position, displays a different hand when certain keys are pressed, and animates a mouth based on the current microphone volume.
 
 Intended to be used mainly for fullscreen games with many buttons.
 
